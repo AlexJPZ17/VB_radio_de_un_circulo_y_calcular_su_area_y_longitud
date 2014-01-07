@@ -1,0 +1,20 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\bin\Debug\Area de un circulo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area_de_un_circulo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area_de_un_circulo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area de un circulo.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\bin\Debug\Area de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\bin\Debug\Area de un circulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\bin\Debug\Area de un circulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area de un circulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\Area de un circulo\Area de un circulo\obj\Debug\Area de un circulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\bin\Debug\Area de un circulo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area de un circulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area de un circulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\bin\Debug\Area de un circulo.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\bin\Debug\Area de un circulo.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\bin\Debug\Area de un circulo.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area_de_un_circulo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area_de_un_circulo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Forms\AJ Programer\Area y longitud de un circulo\Area de un circulo\obj\Debug\Area de un circulo.vbproj.GenerateResource.Cache
